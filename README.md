@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Carson Jones (@DJCubed12)
+- 👀 I’m interested in Software Developement/Engineering
+- 🌱 I’m currently learning Computer Vision techniques
+- 💞️ I’m looking to collaborate on video game development and Software development.
+- 📫 How to reach me: carsonjones1330@gmail.com
